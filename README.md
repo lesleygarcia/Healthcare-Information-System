@@ -9,8 +9,6 @@ prototype
 
 presentation/ – Final project PowerPoint presentation
 
-Files
-
 CS460 Senior Project Development.pdf – Full project documentation
 
 ERD Diagram.png – Entity Relationship Diagram
