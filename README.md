@@ -3,7 +3,9 @@ This repository contains my senior project for CS460. It includes the database p
 
 Folders
 source-code/ – SQL files for creating tables, inserting sample data, and running test queries
-prototype-screenshots/ – Screenshots of the Patient, Appointment, User, and Billing tables
+prototype
+
+-screenshots/ – Screenshots of the Patient, Appointment, User, and Billing tables
 
 presentation/ – Final project PowerPoint presentation
 
